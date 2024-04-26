@@ -1,0 +1,13 @@
+{
+  "name": "sample-electron-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yutak03/sample-electron-app.git",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
